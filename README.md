@@ -1,0 +1,1 @@
+1. [[GiHub_Trick_1]: Advantage of Writing in Multiple lines](https://github.com/Prakhardoneriya/Tech_Tricks/commit/4de60af5f5cfe2eb4492c044c24661d25d3d49e3)
