@@ -1,7 +1,8 @@
-Advantage for writing things in multiple lines if working on Versions Control Platforms: 
+Advantage of writing things in multiple lines if working on Versions Control Platforms: 
 GitHub show differences of each line
 
-Check the Older Versions of this file, you will undersant the Advantage :)
+Check the Older Versions of this file, you will undersand the Advantage :)
+It is easier to view the changes of Example 2
 
 Example ->
 1. Writing content in a single line:
