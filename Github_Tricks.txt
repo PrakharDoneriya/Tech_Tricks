@@ -1,12 +1,11 @@
 Advantage of writing things in multiple lines if working on Versions Control Platforms: 
 GitHub show differences of each line
 
-Check the Older Versions of this file, you will undersand the Advantage :)
-It is easier to view the changes of Example 2
+Check the Older Versions of this file, you will understand the Advantage :)
 
 Example ->
 1. Writing content in a single line:
-    list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100]
+    list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 99, 100]
 
 2. Writing content in multiple lines:
     list = [
@@ -16,7 +15,6 @@ Example ->
         4,
         5,
         6,
-        7,
         8,
         9,
         10,
@@ -26,7 +24,6 @@ Example ->
         14,
         15,
         16,
-        17,
         18,
         19,
         20,
@@ -50,7 +47,6 @@ Example ->
         38,
         39,
         40,
-        41,
         42,
         43,
         44,
@@ -67,7 +63,6 @@ Example ->
         55,
         56,
         57,
-        58,
         59,
         60,
         61,
@@ -84,7 +79,6 @@ Example ->
         72,
         73,
         74,
-        75,
         76,
         77,
         78,
@@ -95,7 +89,6 @@ Example ->
         83,
         84,
         85,
-        86,
         87,
         88,
         89,
@@ -107,7 +100,6 @@ Example ->
         95,
         96,
         97,
-        98,
         99,
         100
     ]
